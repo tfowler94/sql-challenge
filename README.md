@@ -4,3 +4,6 @@ In this challenge, I was tasked with assembling mulitple CSV files into a SQL da
 I developed an ERD using QuickDBD to visually understand the relationship of each table table to one another.
 Within pgAdmin 4 (postgres SQL), I developed a database made up of tables created from the CSV files provided, creating primary keys for each table that correctly relate
 to the foreign key of other tables.
+
+
+With the database created, I could then query from the database to answer the set of questions listed in the module rubric.
